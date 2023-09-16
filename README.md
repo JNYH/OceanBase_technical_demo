@@ -19,7 +19,7 @@ To execute the container in the Bash environment:
 
     docker exec -it oceanbase-ce bash
 
-(Optional) To execute the container in the SQL environment:
+(Skip this - optional) To execute the container in the SQL environment:
 
     docker exec -it oceanbase-ce2 ob-mysql sys
 
