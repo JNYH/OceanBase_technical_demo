@@ -45,4 +45,4 @@ Go to DBeaver -> Database -> New Database Connection -> MySQL -> next
 Refer to [oceanbase_technical_demo.sql](https://github.com/JNYH/OceanBase_technical_demo/blob/main/oceanbase_technical_demo.sql) for more Data Definition Language (DDL) statements.
 
 ---
-Refer to my YouTube video for the above demo in full: https://youtu.be/1G76Mk30sik
+Refer to my YouTube video for the above demo in full: https://youtu.be/RrAiDz9BbtE
